@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/89143328/153285531-4112475a-469c-4359-8f9c-fea5cab55b3c.jpg" align = "right" min-width="300" max-width="600px" width="350px" alt="Computer Science">
+<img src="https://user-images.githubusercontent.com/89143328/153285531-4112475a-469c-4359-8f9c-fea5cab55b3c.jpg" align = "right" min-width="300" max-width="600px" width="400px" alt="Computer Science">
 
 # Oi, tudo bem? 😎👋
 
@@ -26,7 +26,7 @@ Sobre mim 👨‍💻:
 <p align = "left">
 🧑🏻 Prazer, João Vitor, estudante e em busca do meu lugar ao sol.
 </p> 
-<p align = "left"
+<p align = "left">
 🎓 Atualmente estudo Análie e Desenvolvimento de Sitemas no Senac Tech.
 </p>
 <p align = "left">
