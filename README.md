@@ -45,4 +45,3 @@ Sobre mim 👨‍💻:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorBF&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <details>	  
-
