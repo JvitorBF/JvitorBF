@@ -30,7 +30,7 @@ Sobre mim 👨‍💻:
 🎓 Atualmente estudo Análie e Desenvolvimento de Sitemas no Senac Tech.
 </p>
 <p align = "left">
-💡 Estudo com foco em <strong> Java | SQL </strong> e se familiarizando com <strong> PHP | HTML | JavaScript </strong>
+💡 Estudo com foco em <strong> Java | SQL | HTML | CSS | JS </strong> e se familiarizando com <strong> BootStrap | Angular | Spring Boot </strong>
 </p>
 <p align = "left">
 🌱 Estou no caminho para aprender mais sobre Algoritmos • Lógica de Programação • Desenvolvimento de Software etc. 
