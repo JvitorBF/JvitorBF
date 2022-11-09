@@ -24,7 +24,7 @@
 Sobre mim 👨‍💻: 
 
 <p align = "left">
-🧑🏻 Prazer, João Vitor, estudante e em busca do meu lugar ao sol.
+🧑🏻 Prazer, João Vitor, estudante, estagiário e em busca do meu lugar ao sol.
 </p> 
 <p align = "left">
 🎓 Atualmente estudo Análie e Desenvolvimento de Sitemas no Senac Tech.
