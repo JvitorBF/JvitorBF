@@ -27,7 +27,7 @@ Sobre mim 👨‍💻:
 🧑🏻 Prazer, João Vitor, estudante, estagiário e em busca do meu lugar ao sol.
 </p> 
 <p align = "left">
-🎓 Atualmente estudo Análie e Desenvolvimento de Sitemas no Senac Tech.
+🎓 Atualmente curso Superior de Tecnologia em Análie e Desenvolvimento de Sitemas na PUCRS, como também possuo curso técnico em Desenvolvimento de Sistemas pelo SENAC TECH.
 </p>
 <p align = "left">
 💡 Estudo com foco em <strong> Java | SQL | HTML | CSS | JS </strong> e se familiarizando com <strong> BootStrap | Angular | Spring Boot </strong>
