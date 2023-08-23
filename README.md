@@ -33,7 +33,14 @@ Sobre mim 👨‍💻:
 🎓 Atualmente, estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na PUCRS. Também sou formado em Desenvolvimento de Sistemas pelo SENAC TECH.
 </p>
 <p align = "left">
-💡 Estou aprimorando minhas habilidades em tecnologias como **Java | SQL | HTML | CSS | JS** e ampliando meu conhecimento com ferramentas como **BootStrap | Materialize | Angular | Spring Boot**.
+🚀 Tecnologias
+  
+Aqui estão algumas das tecnologias com as quais estou trabalhando e estudando:
+
+- **Linguagens:** Java | SQL | HTML | CSS | JavaScript
+- **Frameworks:** Bootstrap | Materialize | Angular | Spring Boot | Node
+- **Outras Linguagens que Já Explorei:** PHP | Python | TypeScript
+
 </p>
 <p align = "left">
 🌱 Estou trilhando o caminho do aprendizado em Algoritmos • Lógica de Programação • Desenvolvimento de Software e muito mais.
