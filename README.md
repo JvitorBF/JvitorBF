@@ -24,16 +24,19 @@
 Sobre mim 👨‍💻: 
 
 <p align = "left">
-🧑🏻 Prazer, João Vitor, estudante, estagiário e em busca do meu lugar ao sol.
+🧑🏻 Prazer, João Vitor.
 </p> 
-<p align = "left">
-🎓 Atualmente curso Superior de Tecnologia em Análie e Desenvolvimento de Sitemas na PUCRS, como também possuo curso técnico em Desenvolvimento de Sistemas pelo SENAC TECH.
+<p align="left">
+  👨‍💻 Estudante e estagiário, estou em busca do meu lugar ao sol no mundo da tecnologia.
 </p>
 <p align = "left">
-💡 Estudo com foco em <strong> Java | SQL | HTML | CSS | JS </strong> e se familiarizando com <strong> BootStrap | Angular | Spring Boot </strong>
+🎓 Atualmente, estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na PUCRS. Também sou formado em Desenvolvimento de Sistemas pelo SENAC TECH.
 </p>
 <p align = "left">
-🌱 Estou no caminho para aprender mais sobre Algoritmos • Lógica de Programação • Desenvolvimento de Software etc. 
+💡 Estou aprimorando minhas habilidades em tecnologias como **Java | SQL | HTML | CSS | JS** e ampliando meu conhecimento com ferramentas como **BootStrap | Materialize | Angular | Spring Boot**.
+</p>
+<p align = "left">
+🌱 Estou trilhando o caminho do aprendizado em Algoritmos • Lógica de Programação • Desenvolvimento de Software e muito mais.
 </p>
 
 <details>	
