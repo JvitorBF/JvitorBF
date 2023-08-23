@@ -1,19 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFC83D&width=435&lines=Oi%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%98%8E" alt="Typing SVG" /></a><p align="left">
-  💌 Para maior contato, siga minhas redes sociais: ⤵️
+  💌 Para maior contato: ⤵️
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/jvitorbarbosa_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/> </a> 
-  
   <a href="https://www.linkedin.com/in/joao-vitor-fb/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a>
   
   <a href="mailto:jvitorbf35@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/> </a>
-  
-  <a href="https://www.facebook.com/jvitorflorianobarbosa/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" /> </a>
 </p>
 
 Sobre mim 👨‍💻: 
