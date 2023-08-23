@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/89143328/153285531-4112475a-469c-4359-8f9c-fea5cab55b3c.jpg" align = "right" min-width="300" max-width="600px" width="400px" alt="Computer Science">
 
-# Oi, tudo bem? 😎👋
-
-<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFC83D&width=435&lines=Oi%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%98%8E" alt="Typing SVG" /></a><p align="left">
   💌 Para maior contato, siga minhas redes sociais: ⤵️
 </p>
 
