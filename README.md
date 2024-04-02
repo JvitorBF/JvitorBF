@@ -16,7 +16,7 @@ Sobre mim 👨‍💻:
 🧑🏻 Prazer, João Vitor.
 </p> 
 <p align="left">
-  👨‍💻 Estudante e estagiário, estou em busca do meu lugar ao sol no mundo da tecnologia.
+  👨‍💻 Estudante, estou em busca do meu lugar ao sol no mundo da tecnologia.
 </p>
 <p align = "left">
 🎓 Atualmente, estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na PUCRS. Também sou formado em Desenvolvimento de Sistemas pelo SENAC TECH.
