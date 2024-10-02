@@ -47,6 +47,14 @@ Estou sempre em busca de aprimorar meus conhecimentos em algoritmos, lógica de 
 
 ---
 
+## 💻 Status LeetCode
+
+Pratico desafios diários de programação para aprimorar minhas habilidades em algoritmos e estruturas de dados.
+
+![LeetCode Stats](https://leetcode.card.workers.dev/jvitorbarbosa?theme=default&font=baloo&extension=null)
+
+---
+
 ## 📚 Projetos Recentes
 
 Aqui eu listo alguns dos meus projetos mais recentes:
